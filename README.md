@@ -1,0 +1,1 @@
+Solutions for [https://github.com/sethvincent/javascripting](https://github.com/sethvincent/javascripting)
